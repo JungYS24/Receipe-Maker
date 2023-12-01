@@ -4,5 +4,26 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/START.unity
+    guid: c3bb48b823832744585e8956265973ff
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 68ba4eb51ea09ca4685fcc662287ae9c
+  - enabled: 1
+    path: Assets/Scenes/BulgogiScene.unity
+    guid: 3d47ba9170c1d3442bdf73e8d1d5e531
+  - enabled: 1
+    path: Assets/Scenes/CheeseTonkatsuScene.unity
+    guid: ba3db50a9e2bc824480ff73e215bb80c
+  - enabled: 1
+    path: Assets/Scenes/ChiliShrimpScene.unity
+    guid: c73dfc74d331c9249b3c809bdfbc7f33
+  - enabled: 1
+    path: Assets/Scenes/SpicyChickenScene.unity
+    guid: 2412fe2906613964ebaf753d69712f7e
+  - enabled: 1
+    path: Assets/Scenes/Trash.unity
+    guid: edbb92664c017584e9a4be6b1df021e4
   m_configObjects: {}
